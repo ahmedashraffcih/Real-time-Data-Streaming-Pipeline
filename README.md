@@ -6,12 +6,11 @@
 - [What You'll Learn](#what-youll-learn)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
-- [Watch the Video Tutorial](#watch-the-video-tutorial)
-
+---
 ## 🪄 Introduction
 
 This project serves as a comprehensive guide to building an end-to-end data engineering pipeline. It covers each stage from data ingestion to processing and finally to storage, utilizing a robust tech stack that includes Apache Airflow, Python, Apache Kafka, Apache Zookeeper, Apache Spark, and Cassandra. Everything is containerized using Docker for ease of deployment and scalability.
-
+---
 ## ⚡ System Architecture
 
 ![System Architecture](https://github.com/ahmedashraffcih/Real-time-Data-Streaming-Pipeline/blob/main/Data%20engineering%20architecture.png)
@@ -24,7 +23,7 @@ The project is designed with the following components:
 - **Control Center and Schema Registry**: Helps in monitoring and schema management of our Kafka streams.
 - **Apache Spark**: For data processing with its master and worker nodes.
 - **Cassandra**: Where the processed data will be stored.
-
+---
 ## 📜 What You'll Learn
 
 - Setting up a data pipeline with Apache Airflow
@@ -33,7 +32,7 @@ The project is designed with the following components:
 - Data processing techniques with Apache Spark
 - Data storage solutions with Cassandra and PostgreSQL
 - Containerizing your entire data engineering setup with Docker
-
+---
 ## 🔧 Technologies
 
 - Apache Airflow
@@ -44,7 +43,7 @@ The project is designed with the following components:
 - Cassandra
 - PostgreSQL
 - Docker
-
+---
 ## 💿 Getting Started
 
 1. Clone the repository:
